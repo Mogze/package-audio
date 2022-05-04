@@ -1,0 +1,6 @@
+{
+	"name": "Mogze.Audio",
+    "references": [
+        "Mogze.Core"
+    ]
+}

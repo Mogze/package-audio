@@ -1,0 +1,18 @@
+{
+	"name": "Mogze.Audio.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Mogze.Audio"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

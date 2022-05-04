@@ -1,0 +1,15 @@
+{
+  "name": "com.mogze.audio",
+  "version": "0.1.0",
+  "displayName": "Mogze Audio",
+  "description": "Mogze Audio library",
+  "unity": "2019.1",
+  "keywords": [
+    "audio"
+  ],
+  "author": {
+    "name": "Mogze",
+    "email": "info@mogze.com",
+    "url": "https://www.mogze.com"
+  }
+}
